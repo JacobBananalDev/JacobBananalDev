@@ -103,9 +103,7 @@ That's why I like to make things that make a difference.
 ---
 
 ## 📊 Stats
-
-[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since JAN 13 2024</b>
-
+[![wakatime](https://wakatime.com/badge/user/018d01fc-1149-4dcf-bd71-9bfce3d47edb.svg)](https://wakatime.com/@018d01fc-1149-4dcf-bd71-9bfce3d47edb) <b>&nbsp; coded, since JAN 13 2024</b>
 
 📊 <b>This Week I Spent My Time On</b>
 
