@@ -4,12 +4,8 @@
 &nbsp;
 <a href="https://www.instagram.com/jacob_bananal/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.facebook.com/profile.php?id=100011683902531" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
-&nbsp;
 
-
-
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
+## Glad to see you here! 
 
 I am a software engineer. I love programming.
 
