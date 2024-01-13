@@ -161,18 +161,4 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 
 ---
 
-## 📕Latest Blog Posts
 
-- [Technology Keeps Changing with Noonies Nominee Aswin Barath](https://hackernoon.com/the-good-thing-and-the-bad-thing-about-technology-with-noonies-nominee-aswin-barath)
-- [Coding 101: Programming Language Building Blocks](https://hackernoon.com/coding-101-programming-language-building-blocks-1w513uwe)
-- [Python Programming: A Beginner’s Guide](https://dev.to/aswin2001barath/python-programming-a-beginner-s-guide-k8n)
-- [Become a Job Ready Programmer](https://medium.com/techsoftware/become-a-job-ready-programmer-1e5a8cdd1351)
-
-
-<!-- BLOG-POST-LIST:START -->
-- [Learning in Public and Getting Opportunities](https://dev.to/aswin2001barath/learning-in-public-and-getting-opportunities-4i92)
-- [Introduction to programming](https://dev.to/aswin2001barath/introduction-to-programming-31od)
-- [Accessing Firebase services](https://dev.to/aswin2001barath/accessing-firebase-services-4mn9)
-- [Firebase core services](https://dev.to/aswin2001barath/firebase-core-services-4hkl)
-- [What is Firebase?](https://dev.to/aswin2001barath/what-is-firebase-3f35)
-<!-- BLOG-POST-LIST:END -->
