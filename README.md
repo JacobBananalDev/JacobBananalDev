@@ -21,8 +21,7 @@ That's why I like to make things that make a difference.
 - 👨‍🎓 I'm a currently a Software Engineer at [Tek84](https://www.tek84.com/)
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
+  - Swift
 - 📬 How to reach me: [bananal.r.jacob@gmail.com](mailto:bananal.r.jacob@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
 - 💪 This is where I write, code and solve problems:
