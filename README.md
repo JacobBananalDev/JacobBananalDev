@@ -20,7 +20,7 @@ That's why I like to make things that make a difference.
 - 🌱 I'm currently learning:
   - Swift
 - 📬 How to reach me: [bananal.r.jacob@gmail.com](mailto:bananal.r.jacob@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
+- 📝 [Resume](https://drive.google.com/file/d/1Hax6J4yaOZYoS9HespwRTROu4W8uuwYZ/view?usp=drive_link).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
