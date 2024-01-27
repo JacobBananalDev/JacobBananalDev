@@ -96,18 +96,6 @@ That's why I like to make things that make a difference.
 
 ## 📊 Stats
 [![wakatime](https://wakatime.com/badge/user/018d01fc-1149-4dcf-bd71-9bfce3d47edb.svg)](https://wakatime.com/@018d01fc-1149-4dcf-bd71-9bfce3d47edb)
-
-📊 <b>This Week I Spent My Time On</b>
-
-<!--START_SECTION:waka-->
-```text
-c#           8 hrs 0 mins    █████████████████████░░░░    85.00 % 
-XAML         6 hrs 35 mins   ██████████████░░░░░░░░░░░    70.00 % 
-SQL          3 hr 00 mins    ███▒░░░░░░░░░░░░░░░░░░░░░    20.85 % 
-XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░    00.31 % 
-```
-<!--END_SECTION:waka-->
-
 ---
 
 
