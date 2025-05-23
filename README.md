@@ -1,101 +1,90 @@
-# Welcome to [Jacob Bananal's]() profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# 👋 Hey there, I'm Jacob Bananal
 
-<a href="https://www.linkedin.com/in/jacob-bananal-76a418217/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
-&nbsp;
-## Glad to see you here! 
+<a href="https://www.linkedin.com/in/jacob-bananal-76a418217/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+</a>
+<a href="https://jacobbananal.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" />
+</a>
 
-I am a software engineer. I love programming.
+## 🧠 Software Engineer | Builder | Problem Solver
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
+I'm a full-stack software engineer specializing in **C#**, **.NET**, **TypeScript**, **React**, and **SQL**. I build production-grade applications with a focus on performance, maintainability, and user experience.
 
-That's why I like to make things that make a difference.
+I work at [Tek84](https://www.tek84.com/) creating cutting-edge scanning systems that make a real-world impact. When I’m not writing clean, testable code, I’m probably debugging something challenging — and loving every second of it.
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
-
-
-### Talking about Personal Stuffs:
-
-- 👨‍🎓 I'm a currently a Software Engineer at [Tek84](https://www.tek84.com/)
-- 💬 Ask me about anything, I am happy to help
-- 🌱 I'm currently learning:
-  - Swift
-- 📬 How to reach me: [bananal.r.jacob@gmail.com](mailto:bananal.r.jacob@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/13ZyBhUYOH1Xa9LA3tkM0wXbV0EUosW7A/view?usp=drivesdk).
-- 💪 This is where I write, code and solve problems:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/JacobBananalDev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
-&nbsp;
-<a href="https://leetcode.com/aswinb/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
-&nbsp;
-<a href="https://stackoverflow.com/users/10708736/jacob-bananal?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.hackerrank.com/AswinBarath2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AswinBarath2" height="30" width="40" /></a>
-&nbsp;
-<a href="https://medium.com/@aswin2001barath" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aswin2001barath" height="30" width="40" /></a>
-&nbsp;
-<a href="https://dev.to/aswin2001barath" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aswin2001barath" height="30" width="40" /></a>
-&nbsp;
+> “Good software solves problems. Great software empowers people.”
 
 ---
 
-## 🛠️ My favorite tools
+### 🔍 What I’m Focused On Right Now
 
-### 👨‍💻 Programming languages
-
-<p>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-</p>
-
-### 🧰 Frameworks and libraries
-
-<p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
-</p>
-
-### 🗄️ Databases and cloud hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-</p>
-
-### 💻 Software and tools
-
-<p>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+- Building a WPF-based image processing suite (**ClarityAnalyzer**)
+- Perfecting secure, session-based authentication with **React + .NET 8**
+- Growing my open-source presence and portfolio
 
 ---
 
-## 📊 Stats
-[![wakatime](https://wakatime.com/badge/user/018d01fc-1149-4dcf-bd71-9bfce3d47edb.svg)](https://wakatime.com/@018d01fc-1149-4dcf-bd71-9bfce3d47edb)
+## 🧰 Tech Stack
+
+**Languages**  
+![C#](https://img.shields.io/badge/CSharp-239120?logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
+
+**Frameworks & Tools**  
+![React](https://img.shields.io/badge/React-20232a?logo=react)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88.svg?logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
+
+**Dev & Infra**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
 ---
 
+## 🔥 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [**ClarityAnalyzer**](https://github.com/JacobBananalDev/ClarityAnalyzer) | WPF-based desktop app for analyzing scanner image clarity. Built with .NET Framework 4.8.1 | WPF, C#, XAML |
+| [**QuikNote**](https://github.com/JacobBananalDev/QuikNote) | A sleek note-taking web app with folders, color-coded notes, and local storage | React, TypeScript, Tailwind CSS |
+| [**TekNet Synergy**](https://github.com/JacobBananalDev/TekNetSynergy) | Frontend for Tek84’s scanner system management tool | Vite, Redux, React Hook Form |
+
+---
+
+## 📈 GitHub Stats (Dynamic Theme)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JacobBananalDev&show_icons=true&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JacobBananalDev&show_icons=true&theme=default">
+    <img alt="Jacob's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JacobBananalDev&show_icons=true" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobBananalDev&layout=compact&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobBananalDev&layout=compact&theme=default">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobBananalDev&layout=compact" />
+  </picture>
+</div>
+
+---
+
+## 📫 Reach Out
+
+- 📬 **Email**: [bananal.r.jacob@gmail.com](mailto:bananal.r.jacob@gmail.com)
+- 🌐 **Portfolio**: [jacobbananal.vercel.app](https://jacobbananal.vercel.app/)
+- 💼 **Resume**: [View on Google Drive](https://drive.google.com/file/d/13ZyBhUYOH1Xa9LA3tkM0wXbV0EUosW7A/view?usp=drivesdk)
+- 🧠 **Stack Overflow**: [@Jacob Bananal](https://stackoverflow.com/users/10708736/jacob-bananal)
+- 💻 **LeetCode**: [@JacobBananal](https://leetcode.com/JacobBananal/)
+
+---
 
