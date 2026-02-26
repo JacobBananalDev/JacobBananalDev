@@ -2,7 +2,7 @@
   
 # &lt;/&gt; Jacob Bananal
 
-### Backend Engineer • .NET Specialist • Systems Builder
+### Software Engineer
 
 Building secure, scalable backend systems and high-performance desktop applications.
 
@@ -51,21 +51,23 @@ At Tek84, I engineer mission-critical security scanning software used in high-se
 
 ### 🟢 GreenBook  
 Layered .NET 8 API demonstrating clean architecture, JWT authentication, and containerized deployment.  
-**Tech:** .NET 8, PostgreSQL, Docker, JWT  
+`.NET 8` • `PostgreSQL` • `Docker` • `JWT`  
 🔗 https://github.com/JacobBananalDev/greenbook  
 
 ---
 
 ### 🥊 OctagonIQ  
 MMA analytics backend focused on testing, containerization, and scalable API design.  
-**Tech:** Python, FastAPI, PostgreSQL, Docker, Pytest  
-🔗 https://github.com/JacobBananalDev/octagoniq 
+`Python` • `FastAPI` • `PostgreSQL` • `Docker` • `Pytest`  
+🔗 https://github.com/JacobBananalDev/octagoniq  
+
 ---
 
 ### 📝 QuikNote  
 Modern note-taking app built with modular React architecture and clean UI patterns.  
-**Tech:** React, TypeScript, Tailwind  
-🔗 https://github.com/JacobBananalDev/QuikNote 
+`React` • `TypeScript` • `Tailwind`  
+🔗 https://github.com/JacobBananalDev/QuikNote  
+
 ---
 
 ## 📫 Connect
